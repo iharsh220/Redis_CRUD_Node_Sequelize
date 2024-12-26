@@ -33,7 +33,6 @@ Before you begin, ensure you have met the following requirements:
 - Instructions for creating a `.env` file with the following contents:
 
 ```bash
-env
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=password
